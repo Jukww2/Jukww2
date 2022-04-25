@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jukww2
-- 👀 I’m interested in Programation (Lua & Python) & Tennis
-- 🌱 I’m currently learning Glua & Python
+- 👀 I’m interested in Programation Glua (Intermediary Level) & Python 
+- 🌱 I’m currently learning Modélisation
 - 📫 How to reach me Jukww2#5800
 
 <!---
