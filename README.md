@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jukww2
-- 👀 I’m interested in Programation Glua (Intermediary Level) & Python 
-- 🌱 I’m currently learning Modélisation
-- 📫 How to reach me Jukww2#5800
+- 👀 I code in Glua/Lua, C/C++, Web Dev, Rust etc...
+- 📫 How to reach me jukww2 on discord
 
 <!---
 Jukww2/Jukww2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
