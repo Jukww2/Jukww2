@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jukww2
-- 👀 I code in Glua/Lua, C/C++, Web Dev, Rust etc...
+- 👀 I code in Glua/Lua, Web Dev, C# and Java
 - 📫 How to reach me jukww2 on discord
 
 <!---
